@@ -23,6 +23,7 @@
             <ComboBoxItem Content="2025"/>
         </ComboBox>
         <Button x:Name="registration" Content="Registration" HorizontalAlignment="Left" Margin="184,265,0,0" VerticalAlignment="Top" FontSize="16" Height="48" Width="128" Background="#FFD9F1E4" Click="registration_Click"/>
+        <Image x:Name="icon" HorizontalAlignment="Left" Height="71" Margin="597,73,0,0" VerticalAlignment="Top" Width="100" Source="/empty-modern-room-with-furniture.jpg"/>
 
     </Grid>
 </Window>
